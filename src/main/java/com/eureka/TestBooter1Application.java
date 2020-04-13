@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 public class TestBooter1Application {
 
 	public static void main(String[] args) {
-		System.out.println("cicd test lily");
+		System.out.println("cicd test lily holy night");
 		SpringApplication.run(TestBooter1Application.class, args);
 	}
 
